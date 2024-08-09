@@ -1,0 +1,22 @@
+.passLabel {
+
+  background-color: #4CAF50; /* Green background */
+  border: none; /* Remove default border */
+  color: white; /* White text color */
+  padding: 10px 20px; /* Add some padding */
+  text-align: center; /* Center text */
+  text-decoration: none; /* Remove underline */
+  display: inline-block; /* Align button inline */
+  font-size: 16px; /* Increase font size */
+  margin: 4px 2px; /* Add some margin */
+  cursor: pointer; /* Pointer cursor on hover */
+  border-radius: 4px;
+
+
+}
+
+.App {
+
+  background-color:  rgb(220, 238, 22);
+  color: blue;
+}
